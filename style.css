@@ -1,0 +1,221 @@
+/***********************************************my-font***********************************************/
+@font-face {
+    font-family: my-font;
+    src: url(Droid.Arabic.Kufi_DownloadSoftware.iR_.ttf);
+}
+/**********************************************universal**********************************************/
+* {
+    font-family: my-font;
+}
+/***********************************************body***************************************************/
+body {
+    margin: none;
+}
+/***********************************************header*************************************************/
+header nav .navbar .heading {
+    direction: rtl;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: -43px;
+    font-weight: bold;
+    font-size: 45px;
+    color: yellow;
+    
+}
+header nav .navbar {
+    margin: auto;
+    width: 681px;/* */
+    height: 157px;
+    background-color: #2D5F22;
+    position: relative;
+    margin-bottom: 17px;
+}
+/***********************************************section************************************************/
+section {
+    margin: auto;
+    width: 681px;
+    height: 542px;
+    background-color: #58351C;
+}
+section header div {
+    float: left;
+    position: relative;
+    left: 30%;
+    direction: rtl;
+    margin-top: 80px;
+}
+section header .div1 {
+    margin-left: 10px;
+    color: white;
+    background-color: #2D5F22;
+    border-radius:   0 10px 10px 0;
+    width: 141px;
+    height: 22px;
+    padding: 20px;
+    text-align: center;
+}
+section header .div1 .span1 {
+    margin-right: 15px;
+    position: relative;
+    bottom: 18px;
+}
+section header .div1 .span2 {
+    position: relative;
+    bottom: 18px;
+}
+section header .div2 {
+    margin-left: 10px;
+    color: white;
+    background-color: #2D5F22;
+    width: 141px;
+    height: 22px;
+    padding: 20px;
+    text-align: center;
+}
+section header .div3 {
+    margin-left: 40px;
+    color: white;
+    background-color: #2D5F22;
+    border-radius:   10px 0 0 10px;
+    width: 141px;
+    height: 22px;
+    padding: 20px;
+    text-align: center;
+}
+section header {
+    position: relative;
+    right: 196px;
+}
+.div4 img {
+    position: relative;
+    left: 576px;
+    top: 22px;
+    width: 124px;
+}
+.div4 .p1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    height: 36px;
+    border-radius: 0 10px 10px 0;
+    width: 162px;
+    color: #2D5F22;
+    background-color: #ffbb2a;
+    position: relative;
+    bottom: 70px;
+    left: 415px;
+    margin-left: 15px;
+}
+.p2 {
+    background-color: #ffbb2a;
+    color: #2D5F22;
+    height: 36px;
+    width: 181px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    bottom: 126px;
+    left: 225px;
+    margin-left: 15px;
+}
+.div5 img {
+    position: relative;
+    left: 576px;
+    bottom: 126px;
+    width: 124px;
+}
+.p3 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    height: 36px;
+    border-radius: 0 10px 10px 0;
+    width: 162px;
+    color: #2D5F22;
+    background-color: #ffbb2a;
+    position: relative;
+    bottom: 215px;
+    left: 415px;
+    margin-left: 15px;
+}
+.p4 {
+    background-color: #ffbb2a;
+    color: #2D5F22;
+    height: 36px;
+    width: 181px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    bottom: 271px;
+    left: 225px;
+    margin-left: 15px;  
+}
+.div6 img {
+    position: relative;
+    left: 576px;
+    bottom: 275px;
+    width: 124px;
+}
+.p5 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    height: 36px;
+    border-radius: 0 10px 10px 0;
+    width: 162px;
+    color: #2D5F22;
+    background-color: #ffbb2a;
+    position: relative;
+    bottom: 365px;
+    left: 415px;
+    margin-left: 15px;
+}
+.p6 {
+    background-color: #ffbb2a;
+    color: #2D5F22;
+    height: 36px;
+    width: 181px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    bottom: 420px;
+    left: 225px;
+    margin-left: 15px;  
+}
+.p7 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    height: 36px;
+    border-radius: 0 10px 10px 0;
+    width: 162px;
+    color: #2D5F22;
+    background-color: #ffbb2a;
+    position: relative;
+    bottom: 512px;
+    left: 415px;
+    margin-left: 15px;
+}
+.p8 {
+    background-color: #ffbb2a;
+    color: #2D5F22;
+    height: 36px;
+    width: 181px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    bottom: 568px;
+    left: 225px;
+    margin-left: 15px;  
+}
+.div7 img {
+    position: relative;
+    left: 576px;
+    bottom: 420px;
+    width: 124px;
+}
